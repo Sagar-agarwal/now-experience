@@ -1,8 +1,8 @@
 {
-	"components": {
-	    "275250-sa-example-counter": {
-	        "innerComponents": []
-	    }
-	},
-	"scopeName": "x_275250_sa_exam_0"
+    "components": {
+        "sn-card-list": {
+            "innerComponents": []
+        }
+    },
+    "scopeName": "x_275250_sa_exam_0"
 }
