@@ -1,1 +1,1 @@
-import "./sn-card-list";
+import "./sn-card-list.js";
